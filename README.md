@@ -6,6 +6,7 @@ Name:
 Section: 
 Roll No:
 Days present:
+Netlify site url: 
 
 Learnings
 -----------------
