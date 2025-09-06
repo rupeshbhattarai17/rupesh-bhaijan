@@ -1,0 +1,9 @@
+Name: 			Rupesh Bhattarai
+Section: 		"A"
+Roll No:		34
+Days present:		5
+Netlify site url: 	https://rupesh-portfolio69.netlify.app/
+	
+Learnings
+
+learned to  setup git , commit ,clone, merge , make a github account , update and push or pull the code and so on
